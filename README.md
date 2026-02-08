@@ -1,0 +1,1 @@
+Machine Learning repository for predictive analysis of loan payment data. Includes Jupyter notebooks demonstrating data cleaning techniques like filling missing values, feature analysis, and visualization with Matplotlib and Seaborn. Built with Python for financial data science and risk assessment tasks.
